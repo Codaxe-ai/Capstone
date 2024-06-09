@@ -1,0 +1,31 @@
+body{
+	background: brown;	
+	text-align: center;
+	padding-top: 100px;
+}
+#left{
+
+	background: darkolivegreen;
+    height: 364px;
+    width: 950px;
+    padding: 50px;
+    border-radius: 50px;
+    margin: 0 auto;
+    float: left;    
+}
+
+
+#right{
+
+	background: lightblue;
+	height: 364px;
+    width: 179px;
+    padding: 50px;
+    border-radius: 50px;
+    margin: 0 auto;
+	float: right;
+}
+#footer {
+    background: #2e1d14;
+    padding: 100px;
+}
